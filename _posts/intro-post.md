@@ -1,11 +1,16 @@
 ---
-title: "First Post - Introductions and Goal Setting"
+title: "First Post - Introductions"
 categories:
   - Meta
+tags:
+  - Intro
 classes: wide
 toc: true
 toc_label: "Contents"
 toc_icon: "bookmark"
 ---
 
-Hello! This is my first post.
+Hello! 
+
+# Introduction
+Bla bla bla.
