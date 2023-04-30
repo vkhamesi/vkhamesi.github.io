@@ -1,0 +1,83 @@
+title: Victor's Machine Learning page
+email: victorkhamesi@hotmail.fr
+description: >- 
+  Victor's page
+github_username: vkhamesi
+minimal_mistakes_skin: dark
+search: true
+
+locale: en-GB
+name: Victor Khamesi
+url: https://vkhamesi.github.io/
+
+
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+permalink: /:categories/:title/
+paginate: 5 
+paginate_path: /page:num/
+timezone: Europe/London
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Victor Khamesi"
+  avatar : "/assets/images/profile.jpeg"
+  bio    : "Research and Data Scientist at Amazon Edinburgh. Interested in Statistical Machine Learning, Deep Learning, Natural Language Processing and Computer Vision."
+  links:
+    - label: "Amazon Science"
+      icon: "fab fa-fw fa-amazon"
+      url: "https://www.amazon.science/author/victor-khamesi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vkhamesi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/victor-khamesi/"
+
+footer:
+  links:
+    - label: "Amazon Science"
+      icon: "fab fa-fw fa-amazon"
+      url: "https://www.amazon.science/author/victor-khamesi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vkhamesi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/victor-khamesi/"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      show_date: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
