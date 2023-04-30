@@ -8,4 +8,4 @@ toc_label: "Contents"
 toc_icon: "bookmark"
 ---
 
-This is my intro post!
+Hello! This is my first post.

@@ -1,4 +1,4 @@
-title: Victor's Machine Learning page
+title: Victor's Blog
 email: victorkhamesi@hotmail.fr
 description: >- 
   Victor's page
@@ -33,7 +33,7 @@ plugins:
 author:
   name   : "Victor Khamesi"
   avatar : "/assets/images/profile.jpeg"
-  bio    : "Research and Data Scientist at Amazon Edinburgh. Interested in Statistical Machine Learning, Deep Learning, Natural Language Processing and Computer Vision."
+  bio    : "Data Scientist at Amazon Edinburgh. Research interests in Statistical Machine Learning, Deep Learning, Natural Language Processing and Computer Vision."
   links:
     - label: "Amazon Science"
       icon: "fab fa-fw fa-amazon"
