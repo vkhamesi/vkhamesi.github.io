@@ -35,27 +35,27 @@ author:
   avatar : "/assets/images/profile.jpeg"
   bio    : "Data Scientist at Amazon Edinburgh. Research interests: statistical ML, DL, NLP and CV."
   links:
-    - label: "Amazon Science"
-      icon: "fab fa-fw fa-amazon"
-      url: "https://www.amazon.science/author/victor-khamesi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vkhamesi"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/victor-khamesi/"
+    - label: "Amazon Science"
+      icon: "fab fa-fw fa-amazon"
+      url: "https://www.amazon.science/author/victor-khamesi"
 
 footer:
   links:
-    - label: "Amazon Science"
-      icon: "fab fa-fw fa-amazon"
-      url: "https://www.amazon.science/author/victor-khamesi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vkhamesi"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/victor-khamesi/"
+    - label: "Amazon Science"
+      icon: "fab fa-fw fa-amazon"
+      url: "https://www.amazon.science/author/victor-khamesi"
 
 defaults:
   - scope:
