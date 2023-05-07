@@ -12,7 +12,7 @@ toc_label: "Contents"
 toc_icon: "bookmark"
 ---
 
-# My journey to Statistics and Machine Learning
+# My journey to statistics and machine learning
 
 ## First research projects
 
@@ -92,4 +92,4 @@ In November 2022, I joined Amazon in Edinburgh as a Data Scientist to work on ma
 
 [17] Hushchyn et al.. 2020. [_Online Neural Networks for Change-Point Detection_](https://arxiv.org/abs/2010.01388). arXiv.
 
-[18] Victor Khamesi. 2022. [_ocpdet: A Python package for online changepoint detection in univariate and multivariate data._](https://zenodo.org/record/7632721). Zenodo.
+[18] Victor Khamesi. 2022. [_ocpdet: A Python package for online changepoint detection in univariate and multivariate data_](https://zenodo.org/record/7632721). Zenodo.
