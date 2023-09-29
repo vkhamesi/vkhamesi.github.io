@@ -33,7 +33,7 @@ plugins:
 author:
   name   : "Victor Khamesi"
   avatar : "/assets/images/profile.jpeg"
-  bio    : "Data Scientist at Amazon Edinburgh. Research interests: statistical ML, DL, NLP and CV."
+  bio    : "Data Scientist at Amazon Edinburgh. Research interests: ML, DL, NLP."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
